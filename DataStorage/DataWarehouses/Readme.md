@@ -1,7 +1,7 @@
 # Data Warehouses
-- Data warehouse (part of [Online analytical processing - OLAP](../../../HLD-System-Designs/1_Databases/OLTPvsOTAP.md)) are used for data analytics (real-time) & insights.
+- Data warehouse (part of [Online analytical processing - OLAP](https://github.com/Anshul619/HLD-System-Designs/blob/main/1_Databases/OLTPvsOTAP.md)) are used for data analytics (real-time) & insights.
 - The process of getting data in Data Warehouse is called [Extract-Transform-Load (ETL)](../../ETL.md).
-- Data model of a data warehouse is most commonly relational, because [SQL](../../../HLD-System-Designs/1_Databases/7_SQL-Databases/Readme.md) is generally a good fit for analytic queries.
+- Data model of a data warehouse is most commonly relational, because [SQL](https://github.com/Anshul619/HLD-System-Designs/blob/main/1_Databases/7_SQL-Databases/Readme.md) is generally a good fit for analytic queries.
 - This type of database is also known as [columnar database](https://aws.amazon.com/nosql/columnar/).
 
 # Why Data Warehouses?

@@ -4,8 +4,8 @@
 
 # AWS Services
 
-| Service                                                                                                |
-|--------------------------------------------------------------------------------------------------------|
+| Service                                                                                                                        |
+|--------------------------------------------------------------------------------------------------------------------------------|
 | [Amazon S3](https://github.com/Anshul619/AWS-Services/tree/main/10_BigData/DataStorage/DataLakes/S3DataLake.md)                |
 | [AWS lake formation](https://github.com/Anshul619/AWS-Services/tree/main/10_BigData/DataStorage/DataLakes/AWSLakeFormation.md) |
 
